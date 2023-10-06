@@ -1,0 +1,14 @@
+#+title: Suunnitelma
+#+author: grotsku
+#+date: <2023-10-06 Fri>
+
+* outline
+- 2 tyhjää kenttää johon kirjotetaan vaihtoehdot
+- nappia painamalla kirjaa vaihtoehdot ja valitsee toisen
+- listaa lopputuloksen alle
+
+* tekstikoodi
+- nappia painamalla kirjaa vaihtoehdot
+- tallentaa vaihtoehdot vaihtoehtoA, vaihtoehtoB
+- random numerogeneraattori valitsee arvon 0-2 -> ""< 1 = A, > 1 = B.""
+- syöttää tiedon tiedoston alle
